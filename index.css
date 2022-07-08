@@ -56,7 +56,7 @@ background-color: #82efb3
 .navbar{
   display: flex;
   justify-content: space-around;
-  gap: 400px;
+  gap: 401px;
   height:5vh;
   align-items: center;
   z-index:1;
